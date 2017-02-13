@@ -1,7 +1,6 @@
 /**
 * Game
 */
-//sb123
 class Game {
     //定义英雄（主战斗机）
     private hero: Role
